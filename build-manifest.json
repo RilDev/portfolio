@@ -1,0 +1,19 @@
+{
+  "inputs": {
+    "styles/main.css": {
+      "bytes": 10258,
+      "imports": []
+    }
+  },
+  "outputs": {
+    "../~~bundle~~/styles/main.css": {
+      "imports": [],
+      "inputs": {
+        "styles/main.css": {
+          "bytesInOutput": 7555
+        }
+      },
+      "bytes": 7556
+    }
+  }
+}
