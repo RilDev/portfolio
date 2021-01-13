@@ -249,14 +249,14 @@ section>.content img {
 
 .card-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 40px;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 20px;
 }
 
 .card {
     background: #FCFCFC;
     height: auto;
-    width: 320px;
+    max-width: 320px;
     justify-self: center;
 }
 
@@ -337,7 +337,7 @@ section>.content img {
 .card .image {
     display: block;
     position: relative;
-    width: 320px;
+    max-width: 320px;
     height: 320px;
     background-position: center;
     background-size: cover;
