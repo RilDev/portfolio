@@ -1,0 +1,17 @@
+{
+    "name": "portfolio",
+    "version": "0.0.0",
+    "description": "RilDev's portfolio.",
+    "main": "index.js",
+    "scripts": {
+        "start": "snowpack dev",
+        "build": "snowpack build",
+        "deploy": "gh-pages -d build"
+    },
+    "author": "RilDev",
+    "license": "ISC",
+    "devDependencies": {
+        "gh-pages": "^3.1.0",
+        "snowpack": "^3.0.5"
+    }
+}

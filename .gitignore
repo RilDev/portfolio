@@ -1,0 +1,3 @@
+*.epgz
+build/
+node_modules/
