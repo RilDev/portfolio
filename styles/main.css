@@ -574,6 +574,9 @@ footer div {
     nav.desktop {
         padding: 0;
     }
+    .card-grid {
+        gap: 40px;
+    }
     #privacy-cookies-policy-modal .container {
         padding: 0 35px 40px 20px
     }
