@@ -1,7 +1,7 @@
 {
   "inputs": {
     "styles/main.css": {
-      "bytes": 10266,
+      "bytes": 10308,
       "imports": []
     }
   },
@@ -10,10 +10,10 @@
       "imports": [],
       "inputs": {
         "styles/main.css": {
-          "bytesInOutput": 7563
+          "bytesInOutput": 7583
         }
       },
-      "bytes": 7564
+      "bytes": 7584
     }
   }
 }
