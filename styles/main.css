@@ -330,6 +330,11 @@ section>.content img {
     padding: 10px 0;
 }
 
+.card .description ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
 .card .description::-webkit-scrollbar {
     background-color: #F4F7F6;
     color: #d3dfdb;
