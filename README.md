@@ -13,8 +13,7 @@ Live site: [https://rildev.website](https://rildev.website)
 - [x] add privacy policy
 - [x] make app pwa
 - [x] check if app was downloaded
-- [ ] if cookie banner accepted and app not downloaded, on load propose download of the app
-- [ ] add portfolio: gh-packages
+- [x] add portfolio: gh-packages
 - [ ] add porfolio: code for faith
 - [ ] add portfolio: Rildev.website
 - [ ] port site to svelte
@@ -22,3 +21,4 @@ Live site: [https://rildev.website](https://rildev.website)
 - [x] modal close arrow destop center left
 - [x] block scroll when modal is opened
 - [x] add favicon
+- [ ] add colors for the portfolio tags
