@@ -341,6 +341,7 @@ section>.content img {
     height: 320px;
     background-position: center;
     background-size: cover;
+    background-color: #E6EAEA;
 }
 
 .card hr {
