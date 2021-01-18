@@ -1,3 +1,4 @@
 *.epgz
 build/
 node_modules/
+*.png~
