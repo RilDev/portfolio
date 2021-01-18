@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "description": "RilDev's portfolio.",
     "main": "index.js",
-    "homepage": "https://rildev.github.io/portfolio",
+    "homepage": "https://rildev.website",
     "scripts": {
         "start": "snowpack dev",
         "build": "snowpack build",
