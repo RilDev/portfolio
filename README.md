@@ -14,8 +14,8 @@ Live site: [https://rildev.website](https://rildev.website)
 - [x] make app pwa
 - [x] check if app was downloaded
 - [x] add portfolio: gh-packages
-- [ ] add porfolio: code for faith
-- [ ] add portfolio: Rildev.website
+- [x] add porfolio: code for faith
+- [x] add portfolio: Rildev.website
 - [ ] port site to svelte
 - [ ] on portrait hover, change image (100% the first time and then with a 10% chance)
 - [x] modal close arrow destop center left

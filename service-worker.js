@@ -7,6 +7,7 @@ const filesToCache = [
     './images/icons/favicon-16x16.png',
     './images/portfolio/gh-packages.png',
     './images/portfolio/code-for-faith.png',
+    './images/portfolio/rildev-s-website.png',
     './images/github.svg',
     './images/linkedin.svg',
     './images/open-in-new-blue.svg',
