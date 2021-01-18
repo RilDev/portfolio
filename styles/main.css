@@ -561,6 +561,19 @@ footer div {
     background: #37a99c;
 }
 
+
+/* Media Queries */
+
+
+/* For the Galaxy Fold phone */
+
+@media (max-width: 280px) {
+    nav.fixed-bottom .cta,
+    nav.desktop .cta {
+        padding: 0;
+    }
+}
+
 @media (min-width: 600px) {
     .modal-open {
         padding-right: 15px;
