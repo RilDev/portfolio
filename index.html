@@ -54,7 +54,7 @@
 
             <div class="content">
 
-                <img src="images/selfy.svg" width="200" height="200" alt="RilDev&apos;s Pixel Art Selfy">
+                <img src="images/portrait.svg" width="200" height="200" alt="RilDev&apos;s Pixel Art Portrait" onmouseover="switchToStaringPortrait(this)" onmouseout="switchToDefaultPortrait(this)">
 
                 <div class="text">
                     <p>Good day, I&apos;m Cyril. But you probably know me as RilDev.</p>
@@ -391,6 +391,15 @@
         // add class active to active links
         const activeLinks = document.querySelectorAll(`a[href="${location.hash}"]`)
         activeLinks.forEach(link => link.classList.add('active'));
+    }
+
+    /* Animate portrait image */
+    const switchToStaringPortrait = image => {
+        image.src = "images/portrait1.svg";
+    }
+
+    const switchToDefaultPortrait = image => {
+        image.src = "images/portrait.svg";
     }
 </script>
 <script src="scripts/cookies.js"></script>

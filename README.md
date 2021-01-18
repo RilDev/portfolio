@@ -22,3 +22,4 @@ Live site: [https://rildev.website](https://rildev.website)
 - [x] block scroll when modal is opened
 - [x] add favicon
 - [ ] add colors for the portfolio tags
+- [ ] optimize images with webp https://web.dev/codelab-serve-images-webp/
