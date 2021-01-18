@@ -13,7 +13,6 @@ Live site: [https://rildev.website](https://rildev.website)
 - [x] add privacy policy
 - [x] make app pwa
 - [x] check if app was downloaded
-- [ ] if cookie banner accepted and app not downloaded, on load propose download of the app
 - [ ] add portfolio: gh-packages
 - [ ] add porfolio: code for faith
 - [ ] add portfolio: Rildev.website
