@@ -68,6 +68,15 @@ a {
     text-decoration: none;
 }
 
+code {
+    font-size: 0.9rem;
+    background: #E6EAEA;
+    padding: 0 5px;
+    border-radius: 2px;
+    line-height: 1rem;
+    display: inline-block;
+}
+
 .desktop {
     display: none !important;
 }
