@@ -75,6 +75,7 @@ code {
     border-radius: 2px;
     line-height: 1rem;
     display: inline-block;
+    word-break: break-word;
 }
 
 .desktop {
