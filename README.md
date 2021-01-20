@@ -17,9 +17,11 @@ Live site: [https://rildev.website](https://rildev.website)
 - [x] add porfolio: code for faith
 - [x] add portfolio: Rildev.website
 - [ ] port site to svelte
-- [ ] on portrait hover, change image (100% the first time and then with a 10% chance)
+- [x] on portrait hover, change image
 - [x] modal close arrow destop center left
 - [x] block scroll when modal is opened
 - [x] add favicon
 - [ ] add colors for the portfolio tags
 - [ ] optimize images with webp https://web.dev/codelab-serve-images-webp/
+- [x] add robots.txt file
+- [ ] add htaccess file
