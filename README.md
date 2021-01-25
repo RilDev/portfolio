@@ -25,3 +25,5 @@ Live site: [https://rildev.website](https://rildev.website)
 - [ ] optimize images with webp https://web.dev/codelab-serve-images-webp/
 - [x] add robots.txt file
 - [ ] add htaccess file
+- [ ] improve caching strategy
+- [ ] cache google fonts
