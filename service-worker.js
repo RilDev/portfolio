@@ -42,7 +42,7 @@ self.addEventListener('activate', event => {
     }
 
     event.waitUntil(deleteOutdatedCaches());
-})
+});
 
 // serve cached content when offline
 self.addEventListener('fetch', event => {
@@ -52,4 +52,4 @@ self.addEventListener('fetch', event => {
     };
 
     event.respondWith(cachedResponse(event));
-})
+});
