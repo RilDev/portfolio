@@ -279,6 +279,7 @@ section>.content img {
     background: rgba(0, 0, 0, 0.75);
     opacity: 0;
     color: white;
+    word-break: break-all;
     transition: opacity 0.1s linear;
 }
 
