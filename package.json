@@ -7,7 +7,8 @@
     "scripts": {
         "start": "snowpack dev",
         "build": "snowpack build",
-        "predeploy": "npm run build",
+        "cwebp": "./scripts/cwebp.sh",
+        "predeploy": "npm run cwebp;npm run build",
         "deploy": "gh-pages -d build"
     },
     "author": "RilDev",
